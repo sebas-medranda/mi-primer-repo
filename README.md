@@ -2,11 +2,11 @@
 
 Bienvenido a este repositorio de prueba.
 
-## Descripcion
+## Descripción
 
 Este proyecto es un ejemplo sencillo para aprender a usar Git y GitHub.
 
-## Como empezar
+## Cómo empezar
 
 1. Clona el repositorio
 2. Haz tus cambios
